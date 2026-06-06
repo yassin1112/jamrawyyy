@@ -1,0 +1,14 @@
+node_modules
+.env
+.env.*
+public
+.git
+*.log
+.DS_Store
+.cursor
+terminals
+.vscode
+*.rar
+*.zip
+server/scripts/scrape-parafendri.js
+server/scripts/parse-homepage-catalog.js
